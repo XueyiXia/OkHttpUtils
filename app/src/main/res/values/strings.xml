@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">OkHttpUtils</string>
+
+    <!-- ******************公共字段：用于OkHttpUtil****************** -->
+    <string name="login_succeed">登录成功</string>
+    <string name="login_fail_username_pwd">用户名或密码错误，请检查！</string>
+    <string name="login_fail_username">用户不存在，请联系管理员！</string>
+    <string name="login_over_exception">用户已到期，请联系管理员！</string>
+    <string name="login_null_exception">服务器响应超时，请稍后重试！</string>
+    <string name="login_json_exception">服务器数据解析异常，请联系管理员！</string>
+    <string name="login_again">用户超时，请重新登录！</string>
+    <string name="response_null">数据内容为空</string>
+    <string name="response_fail">请求失败，请重新请求！</string>
+
+    <!-- ******************公共字段：用于HttpUtil****************** -->
+    <string name="network_enable">当前网络未连接</string>
+    <string name="network_terrible">当前网络不佳，请检查您的网络设置。</string>
+    <string name="network_error">网络连接异常</string>
+    <string name="network_timeout">网络请求超时，请重试</string>
+    <string name="network_unavailable">网络连接不可用</string>
+    <!-- 公共字段 end-->
+</resources>
